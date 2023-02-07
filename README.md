@@ -8,7 +8,7 @@ Tus tareas consisten en:
 ### Gonzalo Sánchez Calvente
 <img src='/avatar.png' width='200px'>
 
-Profesor del departamento de Informática de la Universidad de Jaén.
+Alumno de Informática de la Universidad de Jaén.
 * **Correo**: gsc00008@red.ujaen.es
 * **Web**: https://gswebdesigner.es
 * **GitHub**: https://github.com/gsc00008
